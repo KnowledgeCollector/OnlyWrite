@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/edit/EditPage",
+    "pages/edit/LeftPage",
+    "pages/edit/RightPage",
+    "pages/other/BookChapterPage",
+    "pages/other/WebPage",
+    "pages/setting/CloudPage",
+    "pages/setting/SettingPage"
+  ]
+}

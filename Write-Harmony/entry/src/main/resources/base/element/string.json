@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "只是写作"
+    },
+    {
+      "name": "root",
+      "value": "书架"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "title",
+      "value": "标题"
+    },
+    {
+      "name": "write_something",
+      "value": "写点什么吧"
+    },
+    {
+      "name": "book_manager",
+      "value": "书籍管理"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "hint",
+      "value": "提示"
+    },
+    {
+      "name": "link",
+      "value": "链接"
+    },
+    {
+      "name": "delete_book",
+      "value": "确认删除此书籍及其下所有文章？"
+    },
+    {
+      "name": "delete_chapter",
+      "value": "确认删除此章节及其下所有文章？"
+    },
+    {
+      "name": "delete_note",
+      "value": "确认删除此文章？"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "add_book",
+      "value": "新增书籍"
+    },
+    {
+      "name": "add_chapter",
+      "value": "新增章节"
+    },
+    {
+      "name": "permission_reason_pasteboard",
+      "value": "笔记中粘贴内容需要授权剪切板权限"
+    },
+    {
+      "name": "copy_ok",
+      "value": "复制成功"
+    },
+    {
+      "name": "copy_page",
+      "value": "复制文章"
+    },
+    {
+      "name": "sorttype",
+      "value": "排序方式"
+    },
+    {
+      "name": "create_time_asc",
+      "value": "创建时间升序"
+    },
+    {
+      "name": "create_time_desc",
+      "value": "创建时间降序"
+    },
+    {
+      "name": "edit_time_asc",
+      "value": "编辑时间升序"
+    },
+    {
+      "name": "edit_time_desc",
+      "value": "编辑时间降序"
+    },
+    {
+      "name": "file_name_asc",
+      "value": "文件名升序"
+    },
+    {
+      "name": "file_name_desc",
+      "value": "文件名降序"
+    },
+    {
+      "name": "backup_ok",
+      "value": "备份成功"
+    },
+    {
+      "name": "app_des",
+      "value": "只是记录简简单单的生活"
+    },
+    {
+      "name": "privacy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "weclome",
+      "value": "欢迎使用只是写作"
+    },
+    {
+      "name": "empty_tip",
+      "value": "试试新建或打开文章吧"
+    },
+    {
+      "name": "outpu_book",
+      "value": "导出书籍"
+    },
+    {
+      "name": "delete_page",
+      "value": "删除文章"
+    },
+    {
+      "name": "save_page",
+      "value": "另存为"
+    },
+    {
+      "name": "row",
+      "value": "行"
+    },
+    {
+      "name": "column",
+      "value": "列"
+    },
+    {
+      "name": "data_manager",
+      "value": "数据管理"
+    },
+    {
+      "name": "aliyun_backup",
+      "value": "阿里云盘"
+    },
+    {
+      "name": "cloud_backup",
+      "value": "云备份"
+    },
+    {
+      "name": "cloud_backup_tip",
+      "value": "开启云备份后在您进行备份时会同时进行本地和云端双重备份"
+    },
+    {
+      "name": "init_cloud_fail",
+      "value": "初始化云备份目录失败"
+    },
+    {
+      "name": "likesetting",
+      "value": "偏好设置"
+    },
+    {
+      "name": "editor",
+      "value": "编辑器"
+    },
+    {
+      "name": "title_size",
+      "value": "标题字号"
+    },
+    {
+      "name": "content_size",
+      "value": "正文字号"
+    },
+    {
+      "name": "content_padding",
+      "value": "正文边距"
+    },
+    {
+      "name": "letter_padding",
+      "value": "正文字间距"
+    },
+    {
+      "name": "line_padding",
+      "value": "正文行间距"
+    },
+    {
+      "name": "text_align",
+      "value": "正文排版"
+    },
+    {
+      "name": "align_left",
+      "value": "居左"
+    },
+    {
+      "name": "align_center",
+      "value": "居中"
+    },
+    {
+      "name": "align_right",
+      "value": "居右"
+    },
+    {
+      "name": "cloud_backup_ok",
+      "value": "云备份成功"
+    },
+    {
+      "name": "desktop",
+      "value": "桌面端"
+    },
+    {
+      "name": "restore_cloud",
+      "value": "恢复云端"
+    },
+    {
+      "name": "retore_local",
+      "value": "恢复本地"
+    },
+    {
+      "name": "backup",
+      "value": "备份数据"
+    },
+    {
+      "name": "grant",
+      "value": "已授权"
+    },
+    {
+      "name": "ungrant",
+      "value": "未授权"
+    },
+    {
+      "name": "restore_ok",
+      "value": "数据恢复成功"
+    },
+    {
+      "name": "open_cloud",
+      "value": "请先授权云盘服务"
+    },
+    {
+      "name": "baidu_backup",
+      "value": "百度网盘"
+    },
+    {
+      "name": "cannot_delete_book",
+      "value": "无法删除正在编辑的书籍！"
+    },
+    {
+      "name": "left_page_tip",
+      "value": "在底部工具栏向右划查看文章列表侧边栏"
+    },
+    {
+      "name": "righy_page_tip",
+      "value": "在底部工具栏向左划查看应用设置侧边栏"
+    },
+    {
+      "name": "note_page",
+      "value": "文章列表"
+    },
+    {
+      "name": "setting_page",
+      "value": "应用设置"
+    }
+  ]
+}

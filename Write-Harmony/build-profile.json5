@@ -1,0 +1,55 @@
+{
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\lenovo\\.ohos\\config\\default_Write-Harmony_xWqW02C69ldcEpNQYgtJQSMV2XKl-Gk16NOu8X10RE0=.cer",
+          "storePassword": "0000001B3189158CBDD61E8620571FCE128D04F5F783C48AEEA6881B3366FAF445594A31D15DC1FDB71B64",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BE18F2D0AE9FEA751C2CD33735E66EDEDF0FFA38B3F23B9967BE4F8C545DEB4A8BA8293AAC47954",
+          "profile": "C:\\Users\\lenovo\\.ohos\\config\\default_Write-Harmony_xWqW02C69ldcEpNQYgtJQSMV2XKl-Gk16NOu8X10RE0=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\lenovo\\.ohos\\config\\default_Write-Harmony_xWqW02C69ldcEpNQYgtJQSMV2XKl-Gk16NOu8X10RE0=.p12"
+        }
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
